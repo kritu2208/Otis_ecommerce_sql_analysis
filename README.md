@@ -1,4 +1,4 @@
-# Otis_ecommerce_sql_analysis# Olist SQL Analysis Project
+# Olist SQL Analysis Project
 
 This project contains a set of SQL queries and views for analyzing the **Olist E-commerce dataset** using **PostgreSQL**. The dataset includes data on customers, orders, payments, products, and reviews from a Brazilian e-commerce platform.
 
