@@ -29,15 +29,19 @@ The following tables are created as part of the analysis:
 9. **product_category_translation**: Mapping of product categories in English.
 
 ## Summarized view
-1. Customer Insights: Identifies high-spending customers and segments them by geographic location and spending behavior.
-![Image](https://github.com/user-attachments/assets/1c715c7e-5215-4f6c-9486-e8e45b30c524)
+1. Customer analysis:
+   Top 10 Customers by Total Spending:
+  ![Image](https://github.com/user-attachments/assets/1c715c7e-5215-4f6c-9486-e8e45b30c524)
+  Customer and total spent:
+  ![Image](https://github.com/user-attachments/assets/1cf72aa7-4bb6-4e79-a5c3-df4bc6899c35)
 
-3. Order and Payment Analysis: Tracks order statuses (e.g., delivered), total payments, and average payment value per customer and transaction.
+3. Order Data Analysis:
+  Customer state and order: ![Image](https://github.com/user-attachments/assets/23c2135a-c1af-4a54-b824-b15852b72d40)
+  Top 6 total order and spendings: ![Image](https://github.com/user-attachments/assets/68f43591-5f84-4640-a54a-6f41102c1742)
 
-4. Product Performance: Highlights top-selling products and revenue generation by product, helping to identify profitable items.
+4. Payment analysis:
+   Payment type and amount associated with order
+  ![Image](https://github.com/user-attachments/assets/d4c6ba00-4270-4709-b002-9b236ae127ca)
+  
 
-5. Regional Analysis: Reveals which states or regions contribute the most to orders and profit, guiding targeted sales efforts.
 
-6. Review Analysis: Analyzes customer feedback through average review scores, providing insights into customer satisfaction.
-
-7. Trend Tracking: Monthly revenue and profit trends highlight seasonal fluctuations and help with forecasting.
