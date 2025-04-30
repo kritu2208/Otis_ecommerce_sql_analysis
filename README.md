@@ -29,24 +29,53 @@ The following tables are created as part of the analysis:
 9. **product_category_translation**: Mapping of product categories in English.
 
 ## Summarized view
-1. **Customer analysis:**
-   a. Top 10 Customers by Total Spending:
-   ![Image](https://github.com/user-attachments/assets/3c79636d-5042-4555-b9c7-b6dfc1193987)
+## 📊 Summarized View
 
+### 1. **Customer Analysis**
 
-   b. Customer and total spent:
-   ![Image](https://github.com/user-attachments/assets/1cf72aa7-4bb6-4e79-a5c3-df4bc6899c35)
+**a. Top 10 Customers by Total Spending**
 
-3. **Order Data Analysis:**
-   a. Customer state and order:
-   ![Image](https://github.com/user-attachments/assets/23c2135a-c1af-4a54-b824-b15852b72d40)
+![Top 10 Customers](https://github.com/user-attachments/assets/3c79636d-5042-4555-b9c7-b6dfc1193987)
 
-   
-   b. Top 6 total order and spendings:
-   ![Image](https://github.com/user-attachments/assets/68f43591-5f84-4640-a54a-6f41102c1742)
+**b. Customer and Total Spent**
 
-5. **Payment analysis:**
-   a. Payment type and amount associated with order:![Image](https://github.com/user-attachments/assets/d4c6ba00-4270-4709-b002-9b236ae127ca)
-  
+![Customer Spending](https://github.com/user-attachments/assets/1cf72aa7-4bb6-4e79-a5c3-df4bc6899c35)
+
+---
+
+### 2. **Order Data Analysis**
+
+**a. Customer State and Order Volume**
+
+![Orders by State](https://github.com/user-attachments/assets/23c2135a-c1af-4a54-b824-b15852b72d40)
+
+**b. Top 6 Total Orders and Spendings**
+
+![Top 6 Orders and Spend](https://github.com/user-attachments/assets/68f43591-5f84-4640-a54a-6f41102c1742)
+
+---
+
+### 3. **Payment Analysis**
+
+**a. Payment Type and Amount Associated with Orders**
+
+![Payment Types](https://github.com/user-attachments/assets/d4c6ba00-4270-4709-b002-9b236ae127ca)
+
+---
+
+### 4. **Monthly Revenue**
+
+**a. Average Monthly Payment Value**
+
+![Monthly revenue](https://github.com/user-attachments/assets/6eaadcd5-3ee4-48c7-acd4-adb68bb69813)
+
+---
+
+### 5. **Customer Summary**
+
+**a. Total Orders and Total Spent by Each Customer**
+
+![Customer Summary](https://github.com/user-attachments/assets/0cd1e4b5-a6de-4bac-ab4f-15c46bb9a82d)
+
 
 
