@@ -30,20 +30,15 @@ The following tables are created as part of the analysis:
 
 ## Summarized view
 1. Customer analysis:
-   Top 10 Customers by Total Spending:
-  ![Image](https://github.com/user-attachments/assets/3c79636d-5042-4555-b9c7-b6dfc1193987)
-  Customer and total spent:
-  ![Image](https://github.com/user-attachments/assets/1cf72aa7-4bb6-4e79-a5c3-df4bc6899c35)
+   Top 10 Customers by Total Spending:![Image](https://github.com/user-attachments/assets/3c79636d-5042-4555-b9c7-b6dfc1193987)
+  Customer and total spent:![Image](https://github.com/user-attachments/assets/1cf72aa7-4bb6-4e79-a5c3-df4bc6899c35)
 
 3. Order Data Analysis:
-  Customer state and order:
-   ![Image](https://github.com/user-attachments/assets/23c2135a-c1af-4a54-b824-b15852b72d40)
-  Top 6 total order and spendings:
-   ![Image](https://github.com/user-attachments/assets/68f43591-5f84-4640-a54a-6f41102c1742)
+  Customer state and order:![Image](https://github.com/user-attachments/assets/23c2135a-c1af-4a54-b824-b15852b72d40)
+  Top 6 total order and spendings:![Image](https://github.com/user-attachments/assets/68f43591-5f84-4640-a54a-6f41102c1742)
 
 5. Payment analysis:
-   Payment type and amount associated with order
-  ![Image](https://github.com/user-attachments/assets/d4c6ba00-4270-4709-b002-9b236ae127ca)
+   Payment type and amount associated with order:![Image](https://github.com/user-attachments/assets/d4c6ba00-4270-4709-b002-9b236ae127ca)
   
 
 
