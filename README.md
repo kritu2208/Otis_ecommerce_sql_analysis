@@ -30,13 +30,14 @@ The following tables are created as part of the analysis:
 
 ## Summarized view
 1. Customer Insights: Identifies high-spending customers and segments them by geographic location and spending behavior.
+![Image](https://github.com/user-attachments/assets/1c715c7e-5215-4f6c-9486-e8e45b30c524)![Image](https://github.com/user-attachments/assets/1c715c7e-5215-4f6c-9486-e8e45b30c524)
 
-2. Order and Payment Analysis: Tracks order statuses (e.g., delivered), total payments, and average payment value per customer and transaction.
+3. Order and Payment Analysis: Tracks order statuses (e.g., delivered), total payments, and average payment value per customer and transaction.
 
-3. Product Performance: Highlights top-selling products and revenue generation by product, helping to identify profitable items.
+4. Product Performance: Highlights top-selling products and revenue generation by product, helping to identify profitable items.
 
-4. Regional Analysis: Reveals which states or regions contribute the most to orders and profit, guiding targeted sales efforts.
+5. Regional Analysis: Reveals which states or regions contribute the most to orders and profit, guiding targeted sales efforts.
 
-5. Review Analysis: Analyzes customer feedback through average review scores, providing insights into customer satisfaction.
+6. Review Analysis: Analyzes customer feedback through average review scores, providing insights into customer satisfaction.
 
-6. Trend Tracking: Monthly revenue and profit trends highlight seasonal fluctuations and help with forecasting.
+7. Trend Tracking: Monthly revenue and profit trends highlight seasonal fluctuations and help with forecasting.
