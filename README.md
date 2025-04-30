@@ -30,7 +30,7 @@ The following tables are created as part of the analysis:
 
 ## Summarized view
 1. Customer Insights: Identifies high-spending customers and segments them by geographic location and spending behavior.
-![Image](https://github.com/user-attachments/assets/1c715c7e-5215-4f6c-9486-e8e45b30c524)![Image](https://github.com/user-attachments/assets/1c715c7e-5215-4f6c-9486-e8e45b30c524)
+![Image](https://github.com/user-attachments/assets/1c715c7e-5215-4f6c-9486-e8e45b30c524)
 
 3. Order and Payment Analysis: Tracks order statuses (e.g., delivered), total payments, and average payment value per customer and transaction.
 
